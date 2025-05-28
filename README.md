@@ -1,2 +1,2 @@
 # fungi-fire-feedbacks_data
-Data for Fungi, Fire, and Feedbacks project, including plant growth data and sequencing data.
+This repository contains data for the Fungi, Fire, and Feedbacks project, including plant growth data, ectomycorrhizal root tip count data, and sequencing data.

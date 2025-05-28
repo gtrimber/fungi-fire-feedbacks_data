@@ -1,0 +1,97 @@
+sample ID,soil type,soil rep,treatment plant,row rep,pinyon seed source final,pinyon notes,final germ date,grass planting date,Pre-harvest grass notes,actual harvest date (grass and pinyon),experimental pinyon fresh shoot biomass (g),experimental pinyon dried shoot biomass,experimental pinyon fresh root biomass (g),experimental pinyon dried root biomass,experimental pinyon shoot length,number of grass/conditioning plants,grass/ treatment pinyon fresh shoot biomass (g),grass/ treatment pinyon fresh root biomass (g),conditioning shoot dried biomass,grass dried root biomass
+WP-B1-1,burn,1,western wheatgrass,1,PRR-11556,germ date estimated,06/01/21,05/24/21,,12/09/21,0.82,0.3221,1.02,0.22,,3,1.64,3.3,0.788,0.65
+WP-B1-2,burn,1,western wheatgrass,2,PRR-11598,"0 on 9/10, 1 on 9/22",09/22/21,05/24/21,mostly senesced...maybe 75%,04/06/22,0.48,0.2312,0.474,0.13,4.4,7,1.79,1.5,1.295,0.9
+WP-B1-3,burn,1,western wheatgrass,3,PRR-11598,germ date estimated,06/01/21,05/24/21,,12/10/21,0.86,0.2959,0.66,,,3,1.11,2.31,0.554,0.64
+WP-B1-4,burn,1,western wheatgrass,4,PRR-11530,,08/17/21,05/24/21,,02/27/22,0.58,0.1966,,,2.5,5,1.33,,0.608,
+WP-B2-1,burn,2,western wheatgrass,1,PRR-11556,germ date estimated,06/01/21,05/24/21,,12/10/21,0.79,0.28,0.65,0.2,,7,1.49,3.33,0.691,0.78
+WP-B2-2,burn,2,western wheatgrass,2,PRR-11598,"0 on 9/10, 1 on 9/22",09/22/21,05/24/21,,04/06/22,0.58,0.2332,0.604,0.208,3.3,5,1.18,4.48,0.913,1.19
+WP-B2-3,burn,2,western wheatgrass,3,PRR-11598,germ date estimated,06/01/21,05/24/21,,12/09/21,0.44,0.1427,0.44,0.16,,5,1.62,3.36,0.718,0.86
+WP-B2-4,burn,2,western wheatgrass,4,PRR-11530,,08/06/21,05/24/21,,02/16/22,0.41,0.1793,,,,4,1.54,,0.908,
+WP-B3-1,burn,3,western wheatgrass,1,PRR-11559,,08/17/21,05/24/21,,02/27/22,0.5,0.1864,,,,5,1.59,,,
+WP-B3-2,burn,3,western wheatgrass,2,PRR-11559,germ date estimated,06/01/21,05/24/21,,12/09/21,0.45,0.1753,0.49,0.23,,7,0.82,2.69,0.477,0.65
+WP-B3-3,burn,3,western wheatgrass,3,PRR-11530,germ date estimated,06/01/21,05/24/21,,12/09/21,0.6,0.2223,,,,6,1.04,,0.484,
+WP-B3-4,burn,3,western wheatgrass,4,PRR-11570,germ date estimated,06/01/21,05/24/21,,12/09/21,0.39,0.15,0.49,0.14,,4,1.56,2.22,0.706,0.85
+WP-B4-1,burn,4,western wheatgrass,1,PRR-11559,,08/17/21,05/24/21,,02/27/22,0.51,0.1698,,,3.2,8,2.29,,,
+WP-B4-2,burn,4,western wheatgrass,2,PRR-11559,germ date estimated,06/01/21,05/24/21,,12/09/21,0.72,0.23,0.74,0.18,,3,1.66,2.61,0.754,0.98
+WP-B4-3,burn,4,western wheatgrass,3,PRR-11530,germ date estimated,06/01/21,05/24/21,,12/09/21,1,0.3754,,,,4,1.23,,0.546,
+WP-B4-4,burn,4,western wheatgrass,4,PRR-11570,germ date estimated,06/01/21,05/24/21,,12/09/21,0.88,0.33,0.83,0.22,,4,1.21,0.93,0.621,0.81
+WP-I1-1,intact,1,western wheatgrass,1,PRR-11556,germ date estimated,06/01/21,05/24/21,,12/09/21,0.29,0.1014,0.37,0.17,,5,1.33,0.43,0.584,0.68
+WP-I1-2,intact,1,western wheatgrass,2,PRR-11598,,09/10/21,05/24/21,,03/18/22,0.47,0.1686,,,4.9,2,1.26,,,
+WP-I1-3,intact,1,western wheatgrass,3,PRR-11598,germ date estimated,06/01/21,05/24/21,,12/10/21,0.5,0.18,0.86,0.18,,4,1.21,,0.584,
+WP-I1-4,intact,1,western wheatgrass,4,PRR-11598,second germ 9/22,09/10/21,05/24/21,,03/18/22,0.48,0.1672,,,5.8,5,1.47,,,
+WP-I2-1,intact,2,western wheatgrass,1,PRR-11556,germ date estimated,06/01/21,05/24/21,,12/10/21,0.47,0.17,0.67,0.23,,6,1.74,1.14,0.74,1
+WP-I2-2,intact,2,western wheatgrass,2,PRR-11556,looks like it just germinated?? maybe never grew? 2/5/22,08/17/21,05/24/21,,02/27/22,0.12,0.0494,1.3,,,6,3.2,,,
+WP-I2-3,intact,2,western wheatgrass,3,PRR-11598,germ date estimated,06/01/21,05/24/21,,12/09/21,0.83,0.2734,1.39,0.44,,4,1.24,4.53,0.543,0.95
+WP-I2-4,intact,2,western wheatgrass,4,PRR-11598,"0 on 9/10, 1 on 9/22, wrong grass? Plant looks extra pale… maybe don’t use this one?",09/22/21,05/24/21,wrong grass?,none,,,,,,,,,,
+WP-I3-1,intact,3,western wheatgrass,1,PRR-11559,"Died? 0 on 9/10, 1 on 9/22/21, dead on 2/5/22",,05/24/21,"grass survived for full duration, but did not collect data on it",none,,,,,,,,,,
+WP-I3-2,intact,3,western wheatgrass,2,PRR-11559,germ date estimated,06/01/21,05/24/21,,12/09/21,0.56,0.19,0.56,0.14,,4,2.26,2.84,1.015,1.23
+WP-I3-3,intact,3,western wheatgrass,3,PRR-11530,germ date estimated,06/01/21,05/24/21,,12/09/21,0.67,0.22,1.21,0.21,,6,2.09,4.11,0.955,1.63
+WP-I3-4,intact,3,western wheatgrass,4,PRR-11570,germ date estimated,06/01/21,05/24/21,,12/09/21,0.65,0.22,0.88,0.2,,5,2.48,4.24,1.161,2.57
+WP-I4-1,intact,4,western wheatgrass,1,PRR-11598,second germ 9/22,09/10/21,05/24/21,,03/18/22,0.37,0.1305,,,6.4,4,1.35,,,
+WP-I4-2,intact,4,western wheatgrass,2,PRR-11598,second germ 9/22,09/10/21,05/24/21,,03/18/22,0.53,0.1631,,,4.8,6,1.83,,,
+WP-I4-3,intact,4,western wheatgrass,3,PRR-11598,second germ 9/22,09/10/21,05/24/21,,03/18/22,0.66,0.2335,,,5.5,6,0.82,,,
+WP-I4-4,intact,4,western wheatgrass,4,PRR-11530,germ date estimated,06/01/21,08/04/21,,12/09/21,1.68,0.5152,1.09,0.5,,4,1.08,1.69,0.424,0.29
+CP-B1-1,burn,1,cheatgrass,1,PRR-11556,germ date estimated,06/01/21,05/24/21,set seed 11/28,12/09/21,0.58,0.1973,,0.178,,3,2.39,0.39,0.557,0.37
+CP-B1-2,burn,1,cheatgrass,2,PRR-11556,,08/06/21,05/24/21,,02/16/22,0.61,0.2293,0.51,,,5,,0.06,0.598,
+CP-B1-3,burn,1,cheatgrass,3,PRR-11598,germ date estimated,06/01/21,05/24/21,,12/10/21,0.58,0.19,0.36,0.14,,2,1.72,0.32,0.462,0.3
+CP-B1-4,burn,1,cheatgrass,4,PRR-11530,,08/06/21,05/24/21,,02/16/22,0.57,0.1851,0.88,,,2,2.27,0.02,0.637,
+CP-B2-1,burn,2,cheatgrass,1,PRR-11556,germ date estimated,06/01/21,05/24/21,,12/10/21,0.7,0.27,0.53,0.22,,2,2.12,,0.597,
+CP-B2-2,burn,2,cheatgrass,2,PRR-11556,clipped second plant 8/27,08/17/21,05/24/21,,02/27/02,0.48,0.167,,,,3,,,0.666,
+CP-B2-3,burn,2,cheatgrass,3,PRR-11598,second germ 9/22,06/01/21,05/24/21,,12/09/21,0.74,0.2589,0.52,0.16,,2,1.24,1.45,0.555,1.16
+CP-B2-4,burn,2,cheatgrass,4,PRR-11598,second germ 9/22/21,09/10/21,05/24/21,,03/18/22,0.64,0.2298,,,6.5,2,2.25,,0.829,
+CP-B3-1,burn,3,cheatgrass,1,PRR-11559,,08/06/21,05/24/21,Senescing 8/17,02/16/22,0.31,0.1184,,,,4,2.01,,0.668,
+CP-B3-2,burn,3,cheatgrass,2,PRR-11556,clipped second plant 8/27,08/02/21,05/24/21,cheatgrass set seed 1/6/22,02/16/22,0.54,0.211,0.65,,,2,1.86,0.27,0.588,
+CP-B3-3,burn,3,cheatgrass,3,PRR-11530,germ date estimated,06/01/21,05/24/21,,12/10/21,0.61,0.24,0.81,0.26,,2,2.46,2.57,0.515,0.54
+CP-B3-4,burn,3,cheatgrass,4,PRR-11570,germ date estimated,06/01/21,05/24/21,,12/09/21,0.9,0.345,1.21,0.29,,2,2.61,6.23,0.532,0.44
+CP-B4-1,burn,4,cheatgrass,1,PRR-11559,,08/17/21,05/24/21,Senescing 8/17,02/27/22,0.62,0.2014,,,,2,3.28,,0.806,
+CP-B4-2,burn,4,cheatgrass,2,PRR-11559,,05/24/21,05/24/21,,12/09/21,0.6,0.2101,0.41,0.28,,4,3.1,3.02,0.798,0.7
+CP-B4-3,burn,4,cheatgrass,3,PRR-11530,,05/24/21,05/24/21,,12/09/21,0.58,0.21,,,,2,3,,0.814,
+CP-B4-4,burn,4,cheatgrass,4,PRR-11530,,08/06/21,05/24/21,,02/16/22,0.81,0.2808,0.71,0.2,,3,2.06,2.52,0.65,1.14
+CP-I1-1,intact,1,cheatgrass,1,PRR-11556,germ date estimated,06/01/21,05/24/21,,12/09/21,0.7,0.23,1.44,0.35,,3,2.89,0.96,0.519,0.82
+CP-I1-2,intact,1,cheatgrass,2,PRR-11556,,08/17/21,05/24/21,,02/27/22,0.51,0.1485,,,4,1,4.11,,0.841,
+CP-I1-3,intact,1,cheatgrass,3,PRR-11598,germ date estimated,06/01/21,05/24/21,,12/10/21,0.36,0.1086,,,,2,2.8,,0.615,
+CP-I1-4,intact,1,cheatgrass,4,PRR-11598,,09/10/21,05/24/21,,03/18/22,0.38,0.1237,,,5.2,2,3.97,,0.949,
+CP-I2-1,intact,2,cheatgrass,1,PRR-11556,germ date estimated,06/01/21,05/24/21,,12/10/21,0.45,0.1495,3.11,0.44,,2,4.21,5.18,0.743,0.64
+CP-I2-2,intact,2,cheatgrass,2,PRR-11556,,08/17/21,05/24/21,,02/28/22,0.28,0.092,,,2.3,8,5.01,,1.207,
+CP-I2-3,intact,2,cheatgrass,3,PRR-11598,germ date estimated,06/01/21,05/24/21,,12/09/21,0.6,0.1885,0.662,0.185,,3,4.47,6.2,0.872,1.27
+CP-I2-4,intact,2,cheatgrass,4,PRR-11530,,08/20/21,05/24/21,,02/27/22,0.65,0.2075,,,4.5,3,2.91,,0.892,
+CP-I3-1,intact,3,cheatgrass,1,PRR-11598,"Found 8/20 while planting, still planted more, second germ 9/22",08/20/21,05/24/21,"Flowering 8/17, cheatgrass set seed 1/6/22 ",02/27/22,0.38,0.1228,,,,3,6.78,,1.761,
+CP-I3-2,intact,3,cheatgrass,2,PRR-11559,germ date estimated,06/01/21,05/24/21,,12/09/21,0.37,0.12,0.68,0.21,,3,5.96,10.68,0.858,2.12
+CP-I3-3,intact,3,cheatgrass,3,PRR-11530,germ date estimated,06/01/21,05/24/21,,12/10/21,0.36,0.13,1.088,0.27,,2,4.99,15.97,1.031,4.87
+CP-I3-4,intact,3,cheatgrass,4,PRR-11570,germ date estimated,06/01/21,05/24/21,,12/10/21,0.52,0.1795,0.51,0.3,,3,2.93,6.76,0.694,0.8
+CP-I4-1,intact,4,cheatgrass,1,PRR-11598,second germ 9/22,09/10/21,05/24/21,,03/18/22,0.64,0.2138,,,6,1,4.1,,1.016,
+CP-I4-2,intact,4,cheatgrass,2,PRR-11559,germ date estimated,06/01/21,05/24/21,,,0.29,0.13,1.24,0.25,,,,11.25,0.885,2.46
+CP-I4-3,intact,4,cheatgrass,3,PRR-11530,germ date estimated,06/01/21,05/24/21,,,0.52,0.24,,,,,,,0.589,
+CP-I4-4,intact,4,cheatgrass,4,PRR-11570,germ date estimated,06/01/21,05/24/21,,12/09/21,0.72,0.22,0.53,0.12,,2,3.21,5.98,0.567,0.91
+PP-B1-1,burn,1,pinyon,1,PRR-11556,germ date estimated,06/01/21,,,12/09/21,0.91,0.3475,1.329,0.422,,1,1,,,
+PP-B1-2,burn,1,pinyon,2,PRR-11598,Only 1 8/6,09/10/21,,,03/18/22,0.89,0.3192,,,5.4,1,0.48,,,
+PP-B1-3,burn,1,pinyon,3,PRR-11598,germ date estimated,06/01/21,,,12/10/21,0.69,0.25,0.51,0.15,,1,0.96,,,
+PP-B1-4,burn,1,pinyon,4,PRR-11598,"second germ by 8/27, second germ dead 9/29",09/10/21,,,,,,,,,,,,,
+PP-B2-1,burn,2,pinyon,1,PRR-11556,germ date estimated,06/01/21,,,12/10/21,1.19,0.43,1.01,0.32,,1,0.81,6.05,,0.79
+PP-B2-2,burn,2,pinyon,2,PRR-11598,,09/10/21,,,03/18/22,0.87,0.3026,,,6.4,1,0.73,,,
+PP-B2-3,burn,2,pinyon,3,PRR-11598,germ date estimated,06/01/21,,,12/09/21,0.87,0.2594,1.75,0.42,,1,0.65,,,
+PP-B2-4,burn,2,pinyon,4,PRR-11530,"second germ by 8/27, second germ dead 9/29",NA,,,,,,,,,,,,,
+PP-B3-1,burn,3,pinyon,1,PRR-11598,"0 on 9/10, 1 on 9/22, 1 on 10/13",NA,,,,,,,,,,,,,
+PP-B3-2,burn,3,pinyon,2,PRR-11556,,08/06/21,,,02/16/22,0.77,0.3001,,,,1,1.13,,,
+PP-B3-3,burn,3,pinyon,3,PRR-11559,,08/17/21,,,,0.55,0.2121,,,2.7,,0.51,,,
+PP-B3-4,burn,3,pinyon,4,PRR-11570,germ date estimated,06/01/21,,,12/09/21,0.72,0.24,0.8,0.23,,1,0.68,,,
+PP-B4-1,burn,4,pinyon,1,PRR-11559,both plants 8/2,08/02/21,,,02/16/22,0.5,0.1926,,,,1,1.2,,,
+PP-B4-2,burn,4,pinyon,2,PRR-11556,,08/17/21,,,,0.81,0.2995,,,5.4,,0.97,,,
+PP-B4-3,burn,4,pinyon,3,PRR-11530,germ date estimated,06/01/21,,,12/10/21,1.01,0.3892,1.008,0.401,,1,1.04,,,
+PP-B4-4,burn,4,pinyon,4,PRR-11570,germ date estimated,06/01/21,,,12/09/21,1.02,0.34,1.24,0.28,,1,0.92,,,
+PP-I1-1,intact,1,pinyon,1,PRR-11556,germ date estimated,06/01/21,,,12/09/21,0.87,0.32,1.16,0.31,,1,1.04,,,
+PP-I1-2,intact,1,pinyon,2,PRR-11598,Only 1 on 9/22 & 10/13,NA,,,,,,,,,,,,,
+PP-I1-3,intact,1,pinyon,3,PRR-11598,Only 1 8/20,09/10/21,,,03/18/22,0.93,0.3475,,,5.8,1,0.66,,,
+PP-I1-4,intact,1,pinyon,4,PRR-11530,,08/17/21,,,12/09/21,0.81,0.263,1.281,0.325,2.5,,0.83,,,
+PP-I2-1,intact,2,pinyon,1,PRR-11598,Only 1 on 8/20 & 9/10 & 10/13,NA,,,,,,,,,,,,,
+PP-I2-2,intact,2,pinyon,2,PRR-11556,,08/20/21,,,,1.62,0.5735,,,9.3 CM,1,0.81,,,
+PP-I2-3,intact,2,pinyon,3,PRR-11598,germ date estimated,06/01/21,,,12/09/21,1.05,0.44,1.69,0.41,,1,1.15,,,
+PP-I2-4,intact,2,pinyon,4,PRR-11598,"Only 1 on 8/20, second on 9/22",09/22/21,,,04/06/22,1.5,0.5411,1.278,0.384,5.5,1,0.54,,,
+PP-I3-1,intact,3,pinyon,1,PRR-11598,"Only 1 on 8/20, third on 9/22",09/10/21,,,03/18/22,0.82,0.3044,,,5.9,1,1.17,,,
+PP-I3-2,intact,3,pinyon,2,PRR-11559,germ date estimated,06/01/21,,,12/09/21,1.13,0.22,1.86,0.39,,,0.61,,,
+PP-I3-3,intact,3,pinyon,3,PRR-11598,"Only 1 on 8/20 & 9/10, 3 on 9/22",09/22/21,,,04/06/22,0.5,0.1797,,,4.7,1,2.11,,,
+PP-I3-4,intact,3,pinyon,4,PRR-11570,germ date estimated,06/01/21,,,12/09/21,1.99,0.66,1.04,0.32,,,1.2,,,
+PP-I4-1,intact,4,pinyon,1,PRR-11598,Only 1 on 8/20,09/10/21,,,03/18/22,0.96,0.342,,,7.5,1,0.91,,,
+PP-I4-2,intact,4,pinyon,2,PRR-11598,Only 1 8/20,09/10/21,,,03/18/22,1.42,0.5012,,,8.9,1,0.61,,,
+PP-I4-3,intact,4,pinyon,3,PRR-11598,"Only 1 8/20, third on 9/22/21",09/10/21,,,03/18/22,0.63,0.2147,,,5,1,1.94,,,
+PP-I4-4,intact,4,pinyon,4,PRR-11570,,06/01/21,,,12/09/21,1.28,0.59,0.93,0.25,,,,,,
